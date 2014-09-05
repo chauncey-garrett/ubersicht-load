@@ -58,7 +58,7 @@ style: """
   border none
   box-sizing border-box
   color #141f33
-  font-family Avenir, Helvetica Neue
+  font-family: Avenir Next, Helvetica Neue
   font-weight 300
   line-height 1.5
   padding 0
@@ -72,7 +72,7 @@ style: """
     font-weight 700
     margin 0
     line-height 1
-    font-family Avenir
+    font-family: Avenir Next, Helvetica Neue
     color rgba(255,255,255,.35)
     transition all 1s ease-in-out
 
